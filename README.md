@@ -1,2 +1,2 @@
 # pyautogui-bot
-This is a repo made up of scripts for GUI automation
+This is a repo composed of bot scripts for GUI automation
